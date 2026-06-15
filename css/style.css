@@ -193,12 +193,20 @@ h2 {
   object-position: center center;
 }
 
+.project-preview__img--portfolio {
+  object-position: 20% center;
+}
+
 .project-image-large__img--left {
   object-position: left center;
 }
 
 .project-image-large__img--center {
   object-position: center center;
+}
+
+.project-image-large__img--portfolio {
+  object-position: 20% center;
 }
 
 .project-item:hover .project-preview img,
